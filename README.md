@@ -1,3 +1,3 @@
-# d3-mex-map
+# mapasD3
 
-WIP: mapa de México que muestra distintas capas de información. 
+Distintos Mapas de México hechos con la librería D3 de javascript. 
